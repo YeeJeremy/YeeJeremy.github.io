@@ -1,0 +1,20 @@
+
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Jeremy Yee
+description:      'Work in progress. Both the website and the human.'
+url:              "http://yeejeremy.github.io"
+baseurl:          "/"
+
+author:
+name:             Jeremy Yee
+github:           YeeJeremy
+email:            jeremyyee@outlook.com.au
+
+

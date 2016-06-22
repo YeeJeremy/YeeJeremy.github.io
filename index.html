@@ -1,1 +1,8 @@
-Hello World!
+---
+layout: default
+title: About
+tags: about
+---
+
+{% capture index %}{% include index.md %}{% endcapture %}
+{{ index | markdownify }}
