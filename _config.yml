@@ -1,7 +1,6 @@
 
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
@@ -9,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Jeremy Yee
 description:      'Work in progress. Both the website and the human.'
-url:              "http://yeejeremy.github.io"
+url:              "localhost:4000"
 baseurl:          "/"
 
 author:
