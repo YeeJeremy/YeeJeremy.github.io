@@ -8,7 +8,7 @@
       </h1>
       <p class="lead">{{ site.description }}</p>
     </div>
-
+    <p> <center><div style="float;"><img src="pic.jpg"></div></p>
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
@@ -26,7 +26,6 @@
         {% endif %}
       {% endfor %}
     </nav>
-
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p><font size="2">&copy; {{ site.time | date: '%Y' }}. All rights reserved.</font></p>
   </div>
 </div>

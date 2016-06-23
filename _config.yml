@@ -1,19 +1,7 @@
-
-# Dependencies
-markdown:         kramdown
-
-# Permalinks
-permalink:        pretty
-
 # Setup
 title:            Jeremy Yee
-description:      'Work in progress. Both the website and the human.'
+description:      'Personal Website'
 url:              "localhost:4000"
 baseurl:          "/"
-
-author:
-name:             Jeremy Yee
-github:           YeeJeremy
-email:            jeremyyee@outlook.com.au
 
 
